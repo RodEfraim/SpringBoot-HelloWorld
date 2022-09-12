@@ -13,7 +13,7 @@ Spring Initializr
 * Packaging: jar
 * Java: 11
 
-Dependencies:
+Dependencies
 •	Spring Web: Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
 •	NOTE: (Command + N) on Mac when hovering over the pom.xml file allows you to search and add more dependencies whenever you want.
 
