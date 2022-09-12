@@ -14,8 +14,8 @@ Spring Initializr
 * Java: 11
 
 Dependencies
-•	Spring Web: Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
-•	NOTE: (Command + N) on Mac when hovering over the pom.xml file allows you to search and add more dependencies whenever you want.
+* Spring Web: Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
+* NOTE: (Command + N) on Mac when hovering over the pom.xml file allows you to search and add more dependencies whenever you want.
 
 
 Apache Tomcat by default is set to port 8080. When you have the HelloWorld application running, navigate on your browser to: http://localhost:8080. The additional classes that we added after the spring initializer were the HelloWorldController which is our RestController class and then a test class to test for the controller response.
