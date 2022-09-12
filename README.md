@@ -1,5 +1,5 @@
 # SpringBoot-HelloWorld
-Demonstration of how to create a Spring Boot "Hello World" Application with IntelliJ IDEA and Spring Initializr.
+Demonstration of how to create a Spring Boot "Hello World" Application using Spring Initializr and IntelliJ IDEA.
 
 Apache Tomcat by default is set to port 8080. When you have the HelloWorld application running, navigate on your browser to: http://localhost:8080. The additional classes that we added after the spring initializer were the HelloWorldController which is our RestController class and then a test class to test for the controller response.
 
